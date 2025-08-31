@@ -1,0 +1,9 @@
+streamlit
+langchain
+deepseek-sdk
+faiss-cpu
+PyMuPDF
+tiktoken
+uvicorn
+requests
+fastapi
